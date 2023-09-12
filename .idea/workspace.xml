@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="acd3371f-a203-4552-8cfd-4e09d80797e0" name="Changes" comment="Changes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/bnn.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/bnn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/bnn_mmd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/constructor_mmd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/mmd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runner.py" beforeDir="false" afterPath="$PROJECT_DIR$/runner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scqdmbpo.py" beforeDir="false" afterPath="$PROJECT_DIR$/scqdmbpo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/logging.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/logging.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GM8NIQSYZY5eMv18YK0OCskHrg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Q_info/Walker2d" />
+      <recent name="$PROJECT_DIR$/Q_info/hopper" />
+      <recent name="$PROJECT_DIR$/Q_info/Ant" />
+      <recent name="$PROJECT_DIR$/Q_info" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Q_info/hopper" />
+      <recent name="$PROJECT_DIR$/storeexp/test/test6/hopper" />
+      <recent name="$PROJECT_DIR$/storeexp/test/test5/a" />
+      <recent name="$PROJECT_DIR$/storeexp/source/Hopper/plan/plan2/1" />
+      <recent name="$PROJECT_DIR$/storeexp/source/Hopper/plan/plan1/1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test2">
+    <configuration default="true" type="tests" factoryName="Autodetect">
+      <module name="SC-DQ-MBPO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType">
+      <module name="SC-DQ-MBPO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <module name="SC-DQ-MBPO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="SC-DQ-MBPO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="plot (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SC-DQ-MBPO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Q_info/Ant" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q_info/Ant/plot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="plot (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SC-DQ-MBPO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Q_info/hopper" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q_info/hopper/plot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="plot (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SC-DQ-MBPO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Q_info/Walker2d" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q_info/Walker2d/plot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SC-DQ-MBPO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ampo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/opt/anaconda3/envs/metrpodad/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mytest" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mytest/test2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Python.FlaskServer">
+      <module name="SC-DQ-MBPO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="SC-DQ-MBPO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Docutils task">
+      <module name="SC-DQ-MBPO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Sphinx task">
+      <module name="SC-DQ-MBPO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="SC-DQ-MBPO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test2" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.plot (2)" />
+        <item itemvalue="Python.plot (1)" />
+        <item itemvalue="Python.plot (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="acd3371f-a203-4552-8cfd-4e09d80797e0" name="Changes" comment="" />
+      <created>1666187050635</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666187050635</updated>
+      <workItem from="1666187051819" duration="2618000" />
+      <workItem from="1666267649449" duration="7556000" />
+      <workItem from="1666316685906" duration="1535000" />
+      <workItem from="1666358419010" duration="599000" />
+      <workItem from="1666493020627" duration="598000" />
+      <workItem from="1666587239444" duration="7279000" />
+      <workItem from="1666703490212" duration="6951000" />
+      <workItem from="1666788633416" duration="1526000" />
+      <workItem from="1666832822641" duration="2467000" />
+      <workItem from="1666884978082" duration="1647000" />
+      <workItem from="1666943194324" duration="599000" />
+      <workItem from="1667184475588" duration="599000" />
+      <workItem from="1667269956170" duration="2048000" />
+      <workItem from="1667368452020" duration="599000" />
+      <workItem from="1667445149143" duration="650000" />
+      <workItem from="1667647507218" duration="2722000" />
+      <workItem from="1667710582051" duration="599000" />
+      <workItem from="1668001873446" duration="8322000" />
+      <workItem from="1668138964545" duration="1620000" />
+      <workItem from="1668180927103" duration="1223000" />
+      <workItem from="1668242203651" duration="13300000" />
+      <workItem from="1668443964513" duration="10798000" />
+      <workItem from="1668502333429" duration="8302000" />
+      <workItem from="1668584684214" duration="17604000" />
+      <workItem from="1668865229998" duration="597000" />
+      <workItem from="1668909658907" duration="22646000" />
+      <workItem from="1669035174126" duration="10551000" />
+      <workItem from="1669176418596" duration="10837000" />
+      <workItem from="1669381912842" duration="132000" />
+      <workItem from="1669383152005" duration="5431000" />
+      <workItem from="1669634126752" duration="3000" />
+      <workItem from="1669721125026" duration="5083000" />
+      <workItem from="1669826723397" duration="1789000" />
+      <workItem from="1669853254478" duration="5446000" />
+      <workItem from="1669911723416" duration="6855000" />
+      <workItem from="1669930724621" duration="1908000" />
+      <workItem from="1670062192884" duration="9696000" />
+      <workItem from="1670371372238" duration="964000" />
+      <workItem from="1670544715870" duration="6823000" />
+      <workItem from="1670630525062" duration="71000" />
+      <workItem from="1670630607771" duration="9986000" />
+      <workItem from="1670733202958" duration="2121000" />
+      <workItem from="1670795866452" duration="12402000" />
+      <workItem from="1670862368211" duration="331000" />
+      <workItem from="1670889666390" duration="5396000" />
+      <workItem from="1670987024399" duration="7296000" />
+      <workItem from="1671029613973" duration="1033000" />
+      <workItem from="1671084952173" duration="3424000" />
+      <workItem from="1671183415561" duration="16464000" />
+      <workItem from="1671237216739" duration="22420000" />
+      <workItem from="1671700932835" duration="602000" />
+      <workItem from="1672026156253" duration="599000" />
+      <workItem from="1673015057383" duration="4061000" />
+      <workItem from="1673090416869" duration="7849000" />
+      <workItem from="1673360841433" duration="1900000" />
+      <workItem from="1673529129390" duration="596000" />
+      <workItem from="1673532377985" duration="3256000" />
+      <workItem from="1673626207210" duration="602000" />
+      <workItem from="1673983384326" duration="6000" />
+      <workItem from="1673989318734" duration="1979000" />
+      <workItem from="1674074425905" duration="599000" />
+      <workItem from="1674130657161" duration="599000" />
+      <workItem from="1674351847951" duration="4477000" />
+      <workItem from="1675325243392" duration="597000" />
+      <workItem from="1676368338681" duration="1952000" />
+      <workItem from="1676447429833" duration="13192000" />
+      <workItem from="1676730944563" duration="22340000" />
+      <workItem from="1677008353342" duration="1216000" />
+      <workItem from="1677009817091" duration="8592000" />
+      <workItem from="1677080776781" duration="16030000" />
+      <workItem from="1677116387830" duration="9577000" />
+      <workItem from="1677176010746" duration="9958000" />
+      <workItem from="1677210835850" duration="120000" />
+      <workItem from="1677248112400" duration="157000" />
+      <workItem from="1677441047201" duration="24268000" />
+      <workItem from="1677671094501" duration="2168000" />
+      <workItem from="1677721351741" duration="2236000" />
+      <workItem from="1677862413696" duration="1106000" />
+      <workItem from="1677891134345" duration="598000" />
+      <workItem from="1677936286242" duration="651000" />
+      <workItem from="1677985310823" duration="5975000" />
+      <workItem from="1678025124790" duration="1986000" />
+      <workItem from="1678027688572" duration="1109000" />
+      <workItem from="1678051732256" duration="4281000" />
+      <workItem from="1678074792028" duration="2593000" />
+      <workItem from="1678149420747" duration="1638000" />
+      <workItem from="1678165002206" duration="667000" />
+      <workItem from="1678282263469" duration="2510000" />
+      <workItem from="1678452049084" duration="3963000" />
+      <workItem from="1678497973658" duration="3944000" />
+      <workItem from="1678501942345" duration="10862000" />
+      <workItem from="1678670341421" duration="8145000" />
+      <workItem from="1678701552608" duration="3099000" />
+      <workItem from="1678756788027" duration="2010000" />
+      <workItem from="1678763966047" duration="1995000" />
+      <workItem from="1678844546975" duration="1972000" />
+      <workItem from="1678929168088" duration="11104000" />
+      <workItem from="1678969116304" duration="1669000" />
+      <workItem from="1679118816518" duration="1442000" />
+      <workItem from="1679151944206" duration="2456000" />
+      <workItem from="1679219108979" duration="3900000" />
+      <workItem from="1679365255243" duration="4716000" />
+      <workItem from="1679408037004" duration="3692000" />
+      <workItem from="1679448475051" duration="34385000" />
+      <workItem from="1679535147217" duration="23621000" />
+      <workItem from="1679707141662" duration="4868000" />
+      <workItem from="1679793151369" duration="1881000" />
+      <workItem from="1679827604041" duration="16067000" />
+      <workItem from="1679896894587" duration="605000" />
+      <workItem from="1679966431956" duration="1555000" />
+      <workItem from="1680005454909" duration="1950000" />
+      <workItem from="1680054901833" duration="4601000" />
+      <workItem from="1680141197000" duration="6239000" />
+      <workItem from="1680263417209" duration="4130000" />
+      <workItem from="1680332460570" duration="3151000" />
+      <workItem from="1680421959037" duration="164000" />
+      <workItem from="1680422438339" duration="6670000" />
+      <workItem from="1680484628997" duration="595000" />
+      <workItem from="1680611752160" duration="6253000" />
+      <workItem from="1680680216327" duration="1230000" />
+      <workItem from="1680744128053" duration="2404000" />
+      <workItem from="1680792994952" duration="706000" />
+      <workItem from="1680851232881" duration="4456000" />
+      <workItem from="1680956858125" duration="8294000" />
+      <workItem from="1681020028328" duration="2926000" />
+      <workItem from="1681102500022" duration="963000" />
+      <workItem from="1681180535765" duration="1207000" />
+      <workItem from="1681270889924" duration="33000" />
+      <workItem from="1681366899376" duration="1800000" />
+      <workItem from="1682343250195" duration="617000" />
+      <workItem from="1683278894684" duration="3148000" />
+      <workItem from="1683296249004" duration="597000" />
+      <workItem from="1683518431428" duration="7400000" />
+      <workItem from="1683555687130" duration="2829000" />
+      <workItem from="1687677472119" duration="2953000" />
+      <workItem from="1687778436998" duration="4200000" />
+      <workItem from="1687869006246" duration="598000" />
+      <workItem from="1687954605423" duration="598000" />
+      <workItem from="1688019763408" duration="605000" />
+      <workItem from="1688021200101" duration="2552000" />
+      <workItem from="1688434020672" duration="3760000" />
+      <workItem from="1688618151060" duration="597000" />
+      <workItem from="1690443506867" duration="309000" />
+      <workItem from="1692224161522" duration="1578000" />
+      <workItem from="1692243996197" duration="7177000" />
+      <workItem from="1692435009487" duration="598000" />
+      <workItem from="1692441383812" duration="174000" />
+      <workItem from="1694309588567" duration="825000" />
+      <workItem from="1694330629367" duration="1950000" />
+      <workItem from="1694400675229" duration="3533000" />
+      <workItem from="1694526724605" duration="11840000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/qampo$draw_mean_var.coverage" NAME="draw_mean_var Coverage Results" MODIFIED="1679577556909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mytest" />
+    <SUITE FILE_PATH="coverage/ampo$test.coverage" NAME="test Coverage Results" MODIFIED="1679406632725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mytest" />
+    <SUITE FILE_PATH="coverage/qampo$plot.coverage" NAME="plot Coverage Results" MODIFIED="1679848317475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mytest" />
+    <SUITE FILE_PATH="coverage/qampo$compute_mean_var.coverage" NAME="compute_mean_var Coverage Results" MODIFIED="1679559979370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mytest" />
+    <SUITE FILE_PATH="coverage/SC_DQ_MBPO$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1688477870526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mytest" />
+    <SUITE FILE_PATH="coverage/qampo$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1679849648736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mytest" />
+    <SUITE FILE_PATH="coverage/ampo$printtime.coverage" NAME="printtime Coverage Results" MODIFIED="1679156017530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/qampo$compute_single_mean_var.coverage" NAME="compute_single_mean_var Coverage Results" MODIFIED="1679568409999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mytest" />
+    <SUITE FILE_PATH="coverage/qampo$plot__2_.coverage" NAME="plot (2) Coverage Results" MODIFIED="1680437723855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Q_info/hopper" />
+    <SUITE FILE_PATH="coverage/qampo$test.coverage" NAME="test Coverage Results" MODIFIED="1681022124640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/qampo$draw_std_var.coverage" NAME="draw_std_var Coverage Results" MODIFIED="1679577176178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mytest" />
+    <SUITE FILE_PATH="coverage/qampo$plot__1_.coverage" NAME="plot (1) Coverage Results" MODIFIED="1680434616399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Q_info/Ant" />
+    <SUITE FILE_PATH="coverage/qampo$plot__3_.coverage" NAME="plot (3) Coverage Results" MODIFIED="1680434497250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Q_info/Walker2d" />
+    <SUITE FILE_PATH="coverage/qampo$testlogger.coverage" NAME="testlogger Coverage Results" MODIFIED="1679977397774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mytest" />
+  </component>
+</project>
